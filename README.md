@@ -11,3 +11,8 @@
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<p>
+  <img src="./images/java.png" height="30"/>
+  <strong>Java</strong>
+</p>
